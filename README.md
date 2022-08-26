@@ -1,4 +1,4 @@
-# sveltekit-symlink-repro-next-405
-✅ Reproduction showing symlinks working in svelkit `1.0.0-next.405`
+# sveltekit-symlink-repro-next-431
+✅ Reproduction showing symlinks working in svelkit `1.0.0-next.431`
 
-![image](https://user-images.githubusercontent.com/7369575/186820269-2a2b4cbf-53a3-490a-9327-569f1ad25b20.png)
+![image](https://user-images.githubusercontent.com/7369575/187002005-fcbb4e8a-827a-4018-9686-b1662bca0c12.png)
